@@ -22,7 +22,7 @@ int main()
     do {
         drawBoard();
         player = (player % 2) ? 1 : 2;
-        printf("player %d enter the choise :", player);
+        printf("player %d enter the choice :", player);
         scanf("%d", &choise);
         mark = (player == 1) ? 'X' : 'O';
         if (choise == 1 && square[1] == '1')
