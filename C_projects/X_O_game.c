@@ -8,6 +8,8 @@
  * i dont know all  of this code
  * it is a new experice to try
  * wish me luck and engoy the game
+ * when i wrote this code only two knew it, me and god, now only god knows :)
+ * bug count #1
 */
 
 char square[10] = {'0', '1', '2', '3', '4', '5', '6', '7', '8', '9'};
